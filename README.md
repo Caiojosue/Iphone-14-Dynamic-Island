@@ -25,3 +25,22 @@ git clone https://github.com/Caiojosue/Iphone-14-Dynamic-Island
 ```
 
 ![Imagem1](https://github.com/Caiojosue/Iphone-14-Dynamic-Island/blob/main/Sem%20t%C3%ADtulo.png)
+
+
+## Contribuições:
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhorias, novas funcionalidades ou correções de bugs
+
+## Licença:
+
+Este projeto está licenciado sob a licença MIT.
+
+## Observação:
+
+Este projeto é apenas para fins educacionais e informativos. Não deve ser utilizado como base para decisões de investimento. Consulte sempre um profissional qualificado antes de tomar qualquer decisão financeira.
+
+# Autor:
+Caio Sando
+
+### Linkedin
+https://www.linkedin.com/in/caio-sando-14ba1a2b5/
